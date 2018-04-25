@@ -1,0 +1,10 @@
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp1.1\PalindromeCheck.deps.json
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp1.1\PalindromeCheck.runtimeconfig.json
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp1.1\PalindromeCheck.runtimeconfig.dev.json
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp1.1\PalindromeCheck.csprojResolveAssemblyReference.cache
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp1.1\PalindromeCheck.csproj.CoreCompileInputs.cache
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp1.1\PalindromeCheck.AssemblyInfo.cs
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp1.1\PalindromeCheck.dll
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp1.1\PalindromeCheck.pdb
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp1.1\PalindromeCheck.dll
+c:\users\jkulkarni\Source\Repos\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp1.1\PalindromeCheck.pdb
